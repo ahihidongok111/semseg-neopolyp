@@ -16,6 +16,13 @@ Make sure to change your working directory to this repository.
 ```.bash
 cd semseg-neopolyp
 ```
+
+Install all required packages by running:
+
+```.bash
+pip install -r requirements.txt
+```
+
 Next, download the checkpoint from this [link](https://drive.google.com/file/d/1jahnvdyJMOl8jN294htqPsq25IrmFfeB/view?usp=sharing) and save in in `checkpoint` folder. Make sure the file name is `unet_sce_40_epochs.pth` before continuing. 
 
 To segment a test image, run the following command:
