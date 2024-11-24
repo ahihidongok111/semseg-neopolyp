@@ -1,5 +1,9 @@
-# Deep Learning Assignment: Colonoscopy Polyp Segmentation
+## Deep Learning Assignment: Colonoscopy Polyp Segmentation
+
+# About
 This is the repository for Semantic Segmentation assignment of IT3320E - Intro to Deep Learning, which contains the code for segmentation on a test image taken from [BKAI-IGH NeoPolyp competition on Kaggle](https://www.kaggle.com/competitions/bkai-igh-neopolyp/overview).
+
+# Usage
 
 To use the code, first, clone this repository:
 
