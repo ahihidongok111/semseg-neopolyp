@@ -17,7 +17,7 @@ Make sure to change your working directory to this repository.
 cd semseg-neopolyp
 ```
 
-Install all required packages by running:
+Install all required packages by running this following command. You may want to create an additional virtual environment to avoid dependency conflicts.
 
 ```.bash
 pip install -r requirements.txt
